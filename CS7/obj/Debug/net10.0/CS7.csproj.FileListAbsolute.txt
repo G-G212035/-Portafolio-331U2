@@ -1,0 +1,14 @@
+C:\Users\gonza\Documents\CSharp\CS7\bin\Debug\net10.0\CS7.exe
+C:\Users\gonza\Documents\CSharp\CS7\bin\Debug\net10.0\CS7.deps.json
+C:\Users\gonza\Documents\CSharp\CS7\bin\Debug\net10.0\CS7.runtimeconfig.json
+C:\Users\gonza\Documents\CSharp\CS7\bin\Debug\net10.0\CS7.dll
+C:\Users\gonza\Documents\CSharp\CS7\bin\Debug\net10.0\CS7.pdb
+C:\Users\gonza\Documents\CSharp\CS7\obj\Debug\net10.0\CS7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Documents\CSharp\CS7\obj\Debug\net10.0\CS7.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\CSharp\CS7\obj\Debug\net10.0\CS7.AssemblyInfo.cs
+C:\Users\gonza\Documents\CSharp\CS7\obj\Debug\net10.0\CS7.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\CSharp\CS7\obj\Debug\net10.0\CS7.dll
+C:\Users\gonza\Documents\CSharp\CS7\obj\Debug\net10.0\refint\CS7.dll
+C:\Users\gonza\Documents\CSharp\CS7\obj\Debug\net10.0\CS7.pdb
+C:\Users\gonza\Documents\CSharp\CS7\obj\Debug\net10.0\CS7.genruntimeconfig.cache
+C:\Users\gonza\Documents\CSharp\CS7\obj\Debug\net10.0\ref\CS7.dll

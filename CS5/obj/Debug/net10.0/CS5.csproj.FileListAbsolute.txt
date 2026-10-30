@@ -1,0 +1,14 @@
+C:\Users\gonza\Documents\CSharp\CS5\bin\Debug\net10.0\CS5.exe
+C:\Users\gonza\Documents\CSharp\CS5\bin\Debug\net10.0\CS5.deps.json
+C:\Users\gonza\Documents\CSharp\CS5\bin\Debug\net10.0\CS5.runtimeconfig.json
+C:\Users\gonza\Documents\CSharp\CS5\bin\Debug\net10.0\CS5.dll
+C:\Users\gonza\Documents\CSharp\CS5\bin\Debug\net10.0\CS5.pdb
+C:\Users\gonza\Documents\CSharp\CS5\obj\Debug\net10.0\CS5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Documents\CSharp\CS5\obj\Debug\net10.0\CS5.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\CSharp\CS5\obj\Debug\net10.0\CS5.AssemblyInfo.cs
+C:\Users\gonza\Documents\CSharp\CS5\obj\Debug\net10.0\CS5.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\CSharp\CS5\obj\Debug\net10.0\CS5.dll
+C:\Users\gonza\Documents\CSharp\CS5\obj\Debug\net10.0\refint\CS5.dll
+C:\Users\gonza\Documents\CSharp\CS5\obj\Debug\net10.0\CS5.pdb
+C:\Users\gonza\Documents\CSharp\CS5\obj\Debug\net10.0\CS5.genruntimeconfig.cache
+C:\Users\gonza\Documents\CSharp\CS5\obj\Debug\net10.0\ref\CS5.dll
